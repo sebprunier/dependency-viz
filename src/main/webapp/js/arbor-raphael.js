@@ -79,7 +79,7 @@
 
       edgesAtts : {
             def : {'stroke-width':2,'stroke':'#000','opacity':0.333},
-            test : {'stroke-width':2,'stroke':'#7dc850','opacity':0.333,'stroke-dasharray':'. '},
+            test : {'stroke-width':2,'stroke':'#222','opacity':0.333,'stroke-dasharray':'. '},
             runtime : {'stroke-width':2,'stroke':'rgb(200,125,125)','opacity':0.333}
       },
       nodesAtts : {
